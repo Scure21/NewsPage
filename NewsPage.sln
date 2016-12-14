@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.25914.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NewsPage", "NewsPage\NewsPage.njsproj", "{CC05608C-87C9-4274-9A86-755E7FA3FA04}"
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NewsPage", "NewsPage.njsproj", "{83B285DF-F878-47A9-8084-BF3C65A888A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CC05608C-87C9-4274-9A86-755E7FA3FA04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CC05608C-87C9-4274-9A86-755E7FA3FA04}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CC05608C-87C9-4274-9A86-755E7FA3FA04}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CC05608C-87C9-4274-9A86-755E7FA3FA04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83B285DF-F878-47A9-8084-BF3C65A888A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83B285DF-F878-47A9-8084-BF3C65A888A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83B285DF-F878-47A9-8084-BF3C65A888A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83B285DF-F878-47A9-8084-BF3C65A888A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

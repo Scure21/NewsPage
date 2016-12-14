@@ -1,0 +1,2 @@
+D:\Proyects\Personal\NewsPage\obj\Debug\NewsPage.njsprojResolveAssemblyReference.cache
+D:\Proyects\Personal\NewsPage\bin\Microsoft.NodejsTools.WebRole.dll
